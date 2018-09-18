@@ -11,7 +11,7 @@ const initialState = {
     { id: 2, title: 'Se7en' },
     { id: 3, title: 'Inception' }
   ]
-};
+}; 
 
 const store = createStore(rootReducer, initialState);
 
